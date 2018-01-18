@@ -3,9 +3,9 @@ theme = "nixon"
 title = "Anecdotal Evidence"
 languageCode = "en-us"
 disqusShortname = "nixon.example"
-copyright = "Copyright (c) 20YY, Your Name Here; all rights reserved."
+copyright = "Copyright (c) 2018, Tim Steggall; all rights reserved."
 MetaDataFormat = "yaml"
-publishDir = "C:\Users\tsteg\Desktop\Github\tsteg.github.io"
+publishDir = "Github/tsteg.github.io"
 
 # used by Hugo shortcodes
 GoogleAnalytics = "UA-XXXXX-Y"
@@ -13,7 +13,7 @@ GoogleAnalytics = "UA-XXXXX-Y"
 # note that the theme expects author both here and in the
 # parameters section
 [author]
-    name = "N. Ixon"
+    name = "Tim Steggall"
 
 # used by the theme
 [indexes]
@@ -21,13 +21,13 @@ GoogleAnalytics = "UA-XXXXX-Y"
     topic = "topics"
 
 [params]
-	copyright_years = "2016"
+	copyright_years = "2018"
 	css_file = "/css/nixon.css"
 	domain_name = "nixon.example.com"
 	personal_site = "https://nixon.example.com"
 
 	[params.author]
-		name = "N. Ixon"
+		name = "Tim Steggall"
 		# The three quotes allow the biography to span
 		# multiple lines. Must end with three, too.
 		short_bio = """
@@ -37,19 +37,19 @@ Ut pharetra pellentesque eros non fringilla. Duis vel augue at ex semper loborti
 
 	[params.facebook]
 		account = "nixon.example"
-	[params.feedburner]
-		account = "nixon.example"
+	#[params.feedburner]
+	#	account = "nixon.example"
 	[params.github]
-		account = "nixon.example"
-	[params.googleplus]
-		account = ""
+		account = "tsteggall"
+	#[params.googleplus]
+	#	account = ""
 	[params.linkedin]
-		account = "nixon.example"
+		account = "tsteggall"
 		source  = "nixon.example"
 	[params.twitter]
-		account = "nixon.example"
-	[params.slideshare]
-		account = "nixon.example"
+		account = "tgsteggall3"
+	#[params.slideshare]
+	#	account = "nixon.example"
 
 	[params.license]
 		url = "http://creativecommons.org/licenses/by/3.0/"

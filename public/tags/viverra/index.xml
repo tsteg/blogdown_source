@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Viverra on Nixon Theme</title>
+    <link>/tags/viverra/</link>
+    <description>Recent content in Viverra on Nixon Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 20YY, Your Name Here; all rights reserved.</copyright>
+    <lastBuildDate>Fri, 18 Nov 2016 14:06:00 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/viverra/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Vitae Blandit Turpis Blah</title>
+      <link>/presentation/vitae-blandit-turpis/</link>
+      <pubDate>Fri, 18 Nov 2016 14:06:00 -0500</pubDate>
+      
+      <guid>/presentation/vitae-blandit-turpis/</guid>
+      <description> Pellentesque ac magna at lorem semper aliquet. Proin sapien dolor, ultrices vel rutrum in, volutpat. Vitae tellus. Pellentesque mollis arcu bibendum magna fermentum suscipit. Morbi fringilla tortor a ex molestie, ac viverra dui pulvinar.
+Vivamus eu Massa Maximus, ornare augue mattis, condimentum sapien.
+Originally given in NYC Nov 14 at GothamGo.
+  Fermentum a sem  Cras quis justo nibh Mauris odio turpis Sodales a tempus vel Cras in semper diam Integer cursus neque eget suscipit lobortis  </description>
+    </item>
+    
+  </channel>
+</rss>

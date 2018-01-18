@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amet on Nixon Theme</title>
+    <link>/tags/amet/</link>
+    <description>Recent content in Amet on Nixon Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 20YY, Your Name Here; all rights reserved.</copyright>
+    <lastBuildDate>Thu, 24 Nov 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/amet/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ornare Diam</title>
+      <link>/project/ornare-diam/</link>
+      <pubDate>Thu, 24 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/ornare-diam/</guid>
+      <description>magna condimentum   Nam in molestie metus
+Fusce tristique Acus id faucibus lacinia, dui nulla consequat felis, ac rhoncus magna tellus nec nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+Etiam condimentum dui turpis, a auctor magna condimentum at. Integer non pharetra elit. Aenean auctor, urna id ullamcorper posuere, tellus purus sollicitudin mi, vel dapibus tellus nulla eget mi.
+Ut vulputate luctus arcu nec consequat.</description>
+    </item>
+    
+    <item>
+      <title>Accumsan Ultricies Turpis?</title>
+      <link>/post/accumsan-ultricies-turpis/</link>
+      <pubDate>Wed, 23 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/accumsan-ultricies-turpis/</guid>
+      <description>Image via CrunchBase   Volutpat vel consequat eget. Et egestas sit amet velit.
+ Duis turpis libero, pretium et mauris eu, volutpat mollis tellus. Donec malesuada vel augue sit amet imperdiet. Vestibulum maximus et leo non laoreet.
+ Maecenas erat lacus, volutpat vel consequat eget, egestas sit amet velit. Mauris a velit imperdiet, dictum leo sit amet, tempor tellus. Vestibulum a congue tortor. Quisque luctus tincidunt neque ornare cursus.</description>
+    </item>
+    
+    <item>
+      <title>Cras Consequat et Risus</title>
+      <link>/project/cras-consequat-et-risus/</link>
+      <pubDate>Fri, 11 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/cras-consequat-et-risus/</guid>
+      <description>&lt;p&gt;Nullam Cursus Rhoncus&lt;/p&gt;
+
+&lt;h1 id=&#34;velit-in-dictum&#34;&gt;Velit in Dictum&lt;/h1&gt;
+
+&lt;p&gt;Cras vitae eros nunc.
+Praesent ornare diam ipsum, sed ultrices tortor porttitor luctus.
+Cras consequat et risus ac rutrum.
+Nullam ac elit blandit, laoreet lorem vel, scelerisque tortor.
+Sed sed tellus in diam tristique tempor.
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

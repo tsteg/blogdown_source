@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dictum on Nixon Theme</title>
+    <link>/tags/dictum/</link>
+    <description>Recent content in Dictum on Nixon Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 20YY, Your Name Here; all rights reserved.</copyright>
+    <lastBuildDate>Sun, 27 Nov 2016 12:28:12 -0700</lastBuildDate>
+    
+	<atom:link href="/tags/dictum/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ullamcorper Ultrices Pellentesque (MMXV)</title>
+      <link>/presentation/ullamcorper-ultrices-pellentesque/</link>
+      <pubDate>Sun, 27 Nov 2016 12:28:12 -0700</pubDate>
+      
+      <guid>/presentation/ullamcorper-ultrices-pellentesque/</guid>
+      <description> Aliquam ullamcorper ultrices pellentesque. Suspendisse interdum, sem ut aliquet pretium. Velit justo volutpat lorem, ac vulputate lacus metus at mauris.
+  Suspendisse vestibulum Ex sit amet dictum rutrum, arcu tortor tincidunt orci, tempor pellentesque nisi sapien a ante. Mauris sodales libero luctus nisl commodo, id tempus massa molestie.
+ </description>
+    </item>
+    
+  </channel>
+</rss>

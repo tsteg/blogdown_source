@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rutrum on Nixon Theme</title>
+    <link>/topics/rutrum/</link>
+    <description>Recent content in Rutrum on Nixon Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 20YY, Your Name Here; all rights reserved.</copyright>
+    <lastBuildDate>Fri, 11 Nov 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/topics/rutrum/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cras Consequat et Risus</title>
+      <link>/project/cras-consequat-et-risus/</link>
+      <pubDate>Fri, 11 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/cras-consequat-et-risus/</guid>
+      <description>&lt;p&gt;Nullam Cursus Rhoncus&lt;/p&gt;
+
+&lt;h1 id=&#34;velit-in-dictum&#34;&gt;Velit in Dictum&lt;/h1&gt;
+
+&lt;p&gt;Cras vitae eros nunc.
+Praesent ornare diam ipsum, sed ultrices tortor porttitor luctus.
+Cras consequat et risus ac rutrum.
+Nullam ac elit blandit, laoreet lorem vel, scelerisque tortor.
+Sed sed tellus in diam tristique tempor.
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

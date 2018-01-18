@@ -5,7 +5,7 @@ languageCode = "en-us"
 disqusShortname = "nixon.example"
 copyright = "Copyright (c) 2018, Tim Steggall; all rights reserved."
 MetaDataFormat = "yaml"
-publishDir = "Github/tsteg.github.io"
+publishDir = "../tsteggall.github.io"
 
 # used by Hugo shortcodes
 GoogleAnalytics = "UA-XXXXX-Y"

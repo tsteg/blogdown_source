@@ -1,0 +1,17 @@
+---
+title: "2018 Book List"
+author: ~
+date: '2018-01-30'
+slug: book-list
+categories: ["Books"]
+tags: ["2018", "Book List", "Read Harder"]
+---
+
+1. The Three-Body Problem by Cixin Liu, trans. by Ken Liu
+2. Shoe Dog: A Memoir by the Creator of Nike by Phil Knight
+3. Killers of the Flower Moon: The Osage Murders and the Birth of the FBI by David Grann
+4. Gnomon by Nick Harkaway
+5. The Ocean at the End of the Lane by Neil Gaiman
+6. The Catcher in the Rye by J.D. Salinger
+
+**Currently Reading:** Siddhartha by Herman Hesse

@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>2018 Book List</title>
+      <link>/post/book-list/</link>
+      <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/book-list/</guid>
+      <description>&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;The Three-Body Problem by Cixin Liu, trans. by Ken Liu&lt;/li&gt;
+&lt;li&gt;Shoe Dog: A Memoir by the Creator of Nike by Phil Knight&lt;/li&gt;
+&lt;li&gt;Killers of the Flower Moon: The Osage Murders and the Birth of the FBI by David Grann&lt;/li&gt;
+&lt;li&gt;Gnomon by Nick Harkaway&lt;/li&gt;
+&lt;li&gt;The Ocean at the End of the Lane by Neil Gaiman&lt;/li&gt;
+&lt;li&gt;The Catcher in the Rye by J.D. Salinger&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Currently Reading:&lt;/strong&gt; Siddhartha by Herman Hesse&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Example Talk</title>
       <link>/talk/example-talk/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>

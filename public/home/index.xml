@@ -13,13 +13,12 @@
     
     
     <item>
-      <title>Academic</title>
+      <title>Anecdotal Evidence</title>
       <link>/home/hero/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 -0700</pubDate>
       
       <guid>/home/hero/</guid>
-      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release  
-(function defer() { if (window.jQuery) { jQuery(document).ready(function(){ GetLatestReleaseInfo(); }); } else { setTimeout(function() { defer() }, 50); } })(); function GetLatestReleaseInfo() { $.getJSON(&#39;https://api.github.com/repos/gcushen/hugo-academic/tags&#39;).done(function (json) { let release = json[0]; // let downloadURL = release.zipball_url; $(&#39;#academic-release&#39;).text(&#39;Latest release &#39; + release.name); }); }  </description>
+      <description>Examining the decisions of daily life. Mostly baseball, books, and data.</description>
     </item>
     
     <item>
@@ -30,33 +29,6 @@
       <guid>/home/about/</guid>
       <description>Biography In my six years working in baseball operations, I have been parts analyst, administrator, coach, coordinator, and project manager. With the Tampa Bay Rays, I lived the “Moneyball” experience preparing the organization for the MLB Draft. I worked at the intersection of sports and analytics with goal of making the best decisions possible in a constantly changing environment.
 This blog is partly an attempt to research and quantify the random ideas and questions that pop into my head, but also a location to document my own personal growth - the books I&amp;rsquo;ve read, the decisions I&amp;rsquo;ve made (hopefully I can make the mundane stuff somewhat interesting), what works, what doesn&amp;rsquo;t, and what decisions I would do differently if I had a do-over.</description>
-    </item>
-    
-    <item>
-      <title>Selected Publications</title>
-      <link>/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
-      
-      <guid>/home/publications_selected/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent Publications</title>
-      <link>/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
-      
-      <guid>/home/publications/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/home/talks/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -75,17 +47,6 @@ This blog is partly an attempt to research and quantify the random ideas and que
       
       <guid>/home/projects/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Teaching</title>
-      <link>/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/home/teaching/</guid>
-      <description>This is an example of using the custom widget to create your own homepage section.
-I am a teaching instructor for the following courses at University X:
- CS101: An intro to computer science CS102: An intro to computer science CS103: An intro to computer science CS104: An intro to computer science CS105: An intro to computer science CS106: An intro to computer science CS107: An intro to computer science  </description>
     </item>
     
     <item>

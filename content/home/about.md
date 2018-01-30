@@ -10,31 +10,35 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Books",
+    "Baseball",
+    "Beer",
+    "Exercising",
+    "Data Analysis",
+    "Travel",
+    "Dogs"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  course = "Masters in Business Administration"
+  institution = "University of Texas at Arlington"
+  year = 2014
+
+[[education.courses]]
+  course = "BA in English Literature"
+  institution = "University of Texas at Arlington"
   year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "AA in General Studies"
+  institution = "Central Arizona College"
   year = 2008
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+In my six years working in baseball operations, I have been parts analyst, administrator, coach, coordinator, and project manager. With the Tampa Bay Rays, I lived the “Moneyball” experience preparing the organization for the MLB Draft. I worked at the intersection of sports and analytics with goal of making the best decisions possible in a constantly changing environment. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+This blog is partly an attempt to research and quantify the random ideas and questions that pop into my head, but also a location to document my own personal growth - the books I've read, the decisions I've made (hopefully I can make the mundane stuff somewhat interesting), what works, what doesn't, and what decisions I would do differently if I had a do-over.

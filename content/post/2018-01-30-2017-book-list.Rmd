@@ -1,0 +1,43 @@
+---
+title: "2017 Reading List"
+author: ~
+date: '2018-01-30'
+slug: 2017-book-list
+categories: ["Books"]
+tags: ["2017", "Reading List"]
+---
+
+1. Strangers in Their Own Land by Arlie Russell Hochschild  
+2. The Undoing Project by Michael Lewis  
+3. What it Takes by Richard Ben Cramer  
+4. Midnight Riot by Ben Aaronovitch  
+5. Just Mercy by Bryan Stevenson  
+6. Moon Over Soho by Ben Aaronovitch  
+7. Data Science for Business by Foster Provost and Tom Fawcett  
+8. The Unwinding by George Packer  
+9. Whispers Underground by Ben Aaronovitch  
+10. Hillbilly Elegy by J.D. Vance  
+11. Broken Homes by Ben Aaronovitch  
+12. Foxglove Summer by Ben Aaronovitch  
+13. The Hanging Tree by Ben Aaronovitch  
+14. Evicted by Matthew Desmond  
+15. SQL Queries for Mere Mortals by John L. Viescas and Michael J. Hernandez  
+16. The Magic of Thinking Big by David J. Schwartz  
+17. White Teeth by Zadie Smith  
+18. When Breath Becomes Air by Paul Kalanithi  
+19. The Attention Merchants by Tim Wu  
+20. The Hike by Drew Magary  
+21. The Information: A History, a Theory, a Flood by James Gleick  
+22. Team of Teams by Gen. Stanley McChrystal  
+23. The Innovators by Walter Isaacson  
+24. The Master Switch by Tim Wu  
+25. Pattern Recognition by William Gibson  
+26. Before the Storm by Rick Perlstein  
+27. Dark Money by Jane Mayer  
+28. The Restaurant at the End of the Universe by Douglas Adams  
+29. Principles by Ray Dalio  
+30. A Legacy of Spies by John Le Carre  
+31. Spook Country by William Gibson  
+32. R for Data Science by Hadley Wickham and Garrett Grolemund  
+33. The Power Broker: Robert Moses and the Fall of New York by Robert A. Caro  
+34. Zero History by William Gibson  

@@ -6,6 +6,7 @@
 baseurl = "https://tsteggall.github.io/"
 
 # Publish Directory
+#publishDir = "../tsteggall.github.io"
 
 # Title of your site
 title = "Anecdotal Evidence"
@@ -41,7 +42,7 @@ defaultContentLanguageInSubdir = false
   hrefTargetBlank = true  # `true` opens external links in a new tab.
   fractions = true  # `false` disables smart fractions (e.g. 5/12 formatted as a fraction).
   smartypants = true  # `false` disables all smart punctuation substitutions (e.g. smart quotes, dashes, fractions).
-
+  
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
@@ -266,8 +267,8 @@ defaultContentLanguageInSubdir = false
   weight = 3
 
 [[menu.main]]
-  name = "Book List"
-  url = "post/book-list/"
+  name = "Reading List"
+  url = "post/reading-list/"
   weight = 4
 
 [[menu.main]]

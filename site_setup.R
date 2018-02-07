@@ -13,7 +13,7 @@ new_site(dir = 'blogdown_source',
 # WORKING DIRECTORY NEEDS TO BE blogdown_source
 # Fixed to control this - created project with this as wd
 
-new_post(title = 'Book-List', ext = '.Rmd')
+new_post(title = 'book-review-gnomon', ext = '.Rmd')
 
 new_content(path = 'project/')
 
